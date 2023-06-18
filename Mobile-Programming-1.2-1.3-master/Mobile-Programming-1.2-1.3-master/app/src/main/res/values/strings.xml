@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NAMA APPNYA</string>
+    <string name="article_title">JUDUL</string>
+    <string name="article_subtitle">SUB JUDUL</string>
+    <string name="article_text">
+        <b>Pantun</b>
+        \n
+        "Ikan hiu Ikan tomat"
+        \n
+        <b>"Cakep"</b>
+    </string>
+</resources>

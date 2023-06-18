@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="words">
+        <item>angel</item>
+        <item>appointment</item>
+        <item>adult</item>
+        <item>acute</item>
+        <item>administration</item>
+        <item>bloodshed</item>
+        <item>bald</item>
+        <item>beard</item>
+        <item>brand</item>
+        <item>betray</item>
+        <item>content</item>
+        <item>chin</item>
+        <item>conversation</item>
+        <item>conservation</item>
+        <item>concrete</item>
+        <item>dinner</item>
+        <item>dividend</item>
+        <item>default</item>
+        <item>die</item>
+        <item>delay</item>
+        <item>examination</item>
+        <item>evaluate</item>
+        <item>expose</item>
+        <item>eavesdrop</item>
+        <item>expect</item>
+        <item>fragment</item>
+        <item>feminine</item>
+        <item>fairy</item>
+        <item>flavor</item>
+        <item>fibre</item>
+        <item>golf</item>
+        <item>global</item>
+        <item>girl</item>
+        <item>gradient</item>
+        <item>guard</item>
+        <item>health</item>
+        <item>hold</item>
+        <item>hierarchy</item>
+        <item>handy</item>
+        <item>hospitality</item>
+        <item>indirect</item>
+        <item>indication</item>
+        <item>increase</item>
+        <item>interest</item>
+        <item>improvement</item>
+        <item>jet</item>
+        <item>joint</item>
+        <item>junior</item>
+        <item>judicial</item>
+        <item>judge</item>
+        <item>kettle</item>
+        <item>kill</item>
+        <item>kick</item>
+        <item>knee</item>
+        <item>knot</item>
+        <item>lodge</item>
+        <item>launch</item>
+        <item>lead</item>
+        <item>latest</item>
+        <item>leadership</item>
+        <item>motorcycle</item>
+        <item>mix</item>
+        <item>maid</item>
+        <item>magazine</item>
+        <item>month</item>
+        <item>nest</item>
+        <item>news</item>
+        <item>notice</item>
+        <item>norm</item>
+        <item>neighborhood</item>
+        <item>orchestra</item>
+        <item>output</item>
+        <item>organisation</item>
+        <item>offender</item>
+        <item>organize</item>
+        <item>paint</item>
+        <item>project</item>
+        <item>pick</item>
+        <item>proportion</item>
+        <item>policy</item>
+        <item>queue</item>
+        <item>quiet</item>
+        <item>quarter</item>
+        <item>quaint</item>
+        <item>qualification</item>
+        <item>ritual</item>
+        <item>reform</item>
+        <item>route</item>
+        <item>reveal</item>
+        <item>rehabilitation</item>
+        <item>secular</item>
+        <item>similar</item>
+        <item>subway</item>
+        <item>stomach</item>
+        <item>suggest</item>
+        <item>toast</item>
+        <item>tower</item>
+        <item>tempt</item>
+        <item>theft</item>
+        <item>thaw</item>
+        <item>unpleasant</item>
+        <item>unfortunate</item>
+        <item>update</item>
+        <item>urine</item>
+        <item>underline</item>
+        <item>volunteer</item>
+        <item>version</item>
+        <item>voucher</item>
+        <item>verdict</item>
+        <item>vacuum</item>
+        <item>wood</item>
+        <item>wriggle</item>
+        <item>welfare</item>
+        <item>wrap</item>
+        <item>walk</item>
+        <item>X-ray</item>
+        <item>yearn</item>
+        <item>year</item>
+        <item>yard</item>
+        <item>young</item>
+        <item>youth</item>
+        <item>zone</item>
+        <item>zero</item>
+    </string-array>
+</resources>
